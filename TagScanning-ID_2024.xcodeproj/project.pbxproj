@@ -44,6 +44,7 @@
 		1FC183552BAA098100ACBF1D /* TagScanning-ID_2024UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TagScanning-ID_2024UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FC183592BAA098100ACBF1D /* TagScanning_ID_2024UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagScanning_ID_2024UITests.swift; sourceTree = "<group>"; };
 		1FC1835B2BAA098100ACBF1D /* TagScanning_ID_2024UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagScanning_ID_2024UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1FC183682BAA0D5800ACBF1D /* TagScanning (IOS).entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "TagScanning (IOS).entitlements"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		1FC183322BAA098000ACBF1D = {
 			isa = PBXGroup;
 			children = (
+				1FC183682BAA0D5800ACBF1D /* TagScanning (IOS).entitlements */,
 				1FC1833D2BAA098000ACBF1D /* TagScanning-ID_2024 */,
 				1FC1834E2BAA098100ACBF1D /* TagScanning-ID_2024Tests */,
 				1FC183582BAA098100ACBF1D /* TagScanning-ID_2024UITests */,
